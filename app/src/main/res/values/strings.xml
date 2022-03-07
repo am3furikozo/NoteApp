@@ -1,0 +1,32 @@
+<!--
+  ~ ***********************************************************************************************
+  ~ Copyright (c) 2022.
+  ~ This file is part of NoteApp project which is released under GNU General Public License v3.0.
+  ~ See LICENSE file or go to https://www.gnu.org/licenses/gpl-3.0.en.html for full license details.
+  ~ ***********************************************************************************************
+  -->
+
+<resources>
+  <string name="app_name">NoteApp</string>
+  <string name="note_notes_service_add_exception_empty_title_exception_message">
+    Title of the note can\'t be empty.
+  </string>
+  <string name="note_notes_service_add_exception_empty_content_exception_message">
+    Content of the note can\'t be empty.
+  </string>
+  <string name="note_notes_components_order_section_radio_btn_sort_by_title">Title</string>
+  <string name="note_notes_components_order_section_radio_btn_sort_by_date">Date</string>
+  <string name="note_notes_components_order_section_radio_btn_sort_by_color">Color</string>
+  <string name="note_notes_components_order_section_radio_btn_direction_asc">Ascending</string>
+  <string name="note_notes_components_order_section_radio_btn_direction_desc">Descending</string>
+  <string name="note_notes_components_note_item_delete_btn_description">Delete note</string>
+  <string name="note_notes_components_notes_screen_add_btn_description">Add note</string>
+  <string name="note_notes_components_notes_screen_header_text">Your notes</string>
+  <string name="note_notes_components_notes_screen_sort_btn_description">Sort</string>
+  <string name="note_notes_components_notes_screen_on_delete_snack_bar_action_label">Undo</string>
+  <string name="note_notes_components_notes_screen_on_delete_snack_bar_message">Note deleted</string>
+  <string name="note_add_edit_note_title_hint">Enter title…</string>
+  <string name="note_add_edit_note_content_hint">Enter some content…</string>
+  <string name="note_add_edit_note_invalid_note_exception_message_fallback">Couldn\'t save note</string>
+  <string name="note_add_edit_note_components_add_edit_note_screen_save_btn_description">Save note</string>
+</resources>
